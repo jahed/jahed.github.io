@@ -1,4 +1,6 @@
 jahed.github.io
 ===============
 
-Currently just goes to my portfolio page.
+This page is just a stub. Actual projects exist as subdirectories.
+
+[Visit my website.](https://jahed.io)
